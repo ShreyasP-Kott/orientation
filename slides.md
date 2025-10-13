@@ -81,4 +81,33 @@ align: cm-cm
   <img src="./assets/kott.gif">
 </div>
 
+---
+layout: side-title
+side: l
+color: purple-light
+titlewidth: is-4
+align: cm-lm
+---
+
+:: title ::
+
+# Training
+
+:: content ::
+
+- HR orientation on policies and guidelines
+- Coding standards
+- HTML, CSS & JavaScript
+- VueJS
+- MongoDB
+- ASP .NET Core
+- Quality Management System
+- Software Testing
+
+
+
+<div class="abs-tr m-3 w-50">
+  <img src="./assets/kott.gif">
+</div>
+
 
