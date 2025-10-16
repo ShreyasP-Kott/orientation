@@ -4,7 +4,7 @@ layout: cover
 transition: slide-left
 ---
 
-# Orientation Presentation
+# Orientation
 
 By **Shreyas Panicker**
 
@@ -87,6 +87,7 @@ side: l
 color: purple-light
 titlewidth: is-4
 align: cm-lm
+transition: slide-up
 ---
 
 :: title ::
@@ -98,6 +99,7 @@ align: cm-lm
 - HR orientation on policies and guidelines
 - Coding standards
 - HTML, CSS & JavaScript
+- Bootstrap
 - VueJS
 - MongoDB
 - ASP .NET Core
@@ -110,4 +112,93 @@ align: cm-lm
   <img src="./assets/kott.gif">
 </div>
 
+---
+layout: side-title
+side: l
+color: green-light
+titlewidth: is-4
+align: cm-lm
+---
 
+:: title ::
+
+# Policies & guidelines
+
+:: content ::
+
+<div class="grid grid-cols-2 gap-4">
+  <div>
+    <h3>Company Policies</h3>
+    <ul>
+      <li>Attendance</li>
+      <li>Code of conduct</li>
+      <li>Leaves & holidays</li>
+      <li>Hours of work</li>
+    </ul>
+  </div>
+  <div>
+    <h3>HR Policies</h3>
+    <ul>
+      <li>Harassment policy</li>
+      <li>Substance use</li>
+      <li>Electronic usage policy</li>
+      <li>Employee communication</li>
+    </ul>
+  </div>
+</div>
+
+
+<div class="abs-tr m-3 w-50">
+  <img src="./assets/kott.gif">
+</div>
+
+
+---
+layout: side-title
+side: l
+color: yellow-light
+titlewidth: is-4
+align: cm-lm
+---
+
+:: title ::
+
+# Coding standards
+
+:: content ::
+
+<ul>
+  <li>Naming conventions</li>
+  <li>Formatting & identation</li>
+  <li>Comments and documentation</li>
+  <li>Code organization</li>
+  <li>File and directory structure</li>
+</ul>
+
+    
+
+<div class="abs-tr m-3 w-50">
+  <img src="./assets/kott.gif">
+</div>
+
+
+---
+layout: side-title
+side: l
+color: cyan-light
+titlewidth: is-4
+align: cm-cb
+---
+
+:: title ::
+
+# HTML, CSS & JS
+
+:: content ::
+
+<img class="" src="./assets/web.png">
+    
+
+<div class="abs-tr m-2 w-50">
+  <img src="./assets/kott.gif">
+</div>
