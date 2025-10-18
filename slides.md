@@ -202,3 +202,54 @@ align: cm-cb
 <div class="abs-tr m-2 w-50">
   <img src="./assets/kott.gif">
 </div>
+
+---
+layout: side-title
+align: cm-cm
+color: blue-light
+
+---
+
+:: title ::
+
+# Live Demo
+
+:: content ::
+
+<iframe height="300" style="width: 100%;" scrolling="no" title="Untitled" src="https://codepen.io/ShreyasP-Kott/embed/jEWYyXd?default-tab=html&editable=true&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/ShreyasP-Kott/pen/jEWYyXd">
+  Untitled</a> by Shreyas Panicker (<a href="https://codepen.io/ShreyasP-Kott">@ShreyasP-Kott</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+
+<div class="abs-tr m-2 w-50">
+  <img src="./assets/kott.gif">
+</div>
+
+
+---
+layout: side-title
+side: l
+color: fuchsia-light
+titlewidth: is-4
+align: cm-lm
+---
+
+:: title ::
+
+# Bootstrap
+
+:: content ::
+
+- Ease of use
+- Responsive design
+- Consistency across browsers
+- Customizability
+- Large community & support
+- Rich set of components
+
+
+<div class="abs-tr m-2 w-50">
+  <img src="./assets/kott.gif">
+</div>
+
