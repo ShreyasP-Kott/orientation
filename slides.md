@@ -481,3 +481,182 @@ Think of it like a data processing pipeline — your documents flow through mult
 <div class="abs-tr m-2 w-50">
   <img src="./assets/kott.gif">
 </div>
+
+---
+layout: side-title
+side: l
+color: blue-light
+titlewidth: is-4
+align: cm-cl
+transition: slide-up
+---
+
+:: title ::
+# ASP .NET Core
+
+:: content ::
+<br>
+<div class="leading-10">
+ASP.NET Core is a modern, open-source, cross-platform framework developed by Microsoft for building web applications, APIs, and microservices.
+</div>
+<br>
+<span class="font-bold">Why use it?</span>
+
+- High Performance
+- Cross-Platform
+- Dependency Injection (DI) Built-in
+- Easy Integration with Frontend Frameworks
+- Modern Security
+- Cloud-Ready & Microservices Friendly
+
+<div class="abs-tr m-2 w-50">
+  <img src="./assets/kott.gif">
+</div>
+
+---
+layout: side-title
+side: l
+color: amber-light
+titlewidth: is-4
+align: cm-lm
+transition: slide-up
+---
+
+:: title ::
+# OOP's Concepts
+
+:: content ::
+
+<br>
+<div class="leading-10">
+<div><span class="font-bold">Encapsulation</span> — ( Data hiding ) — using access modifiers like private, public, protected</div>
+<br>
+<div><span class="font-bold">Abstraction</span> — ( Showing only what’s necessary ) — using abstract classes or interfaces</div>
+<br>
+<div><span class="font-bold">Inheritance</span> — ( Reusing code ) — promotes heirarchy</div>
+<br>
+<div><span class="font-bold">Polymorphism</span> — ( Many forms ) — by method overriding (runtime polymorphism) or method overloading (compile-time).</div>
+</div>
+
+
+
+<div class="abs-tr m-2 w-50">
+  <img src="./assets/kott.gif">
+</div>
+
+---
+layout: side-title
+side: l
+color: green-light
+titlewidth: is-4
+align: cm-lm
+transition: slide-up
+---
+
+:: title ::
+# Dependency Injection
+
+:: content ::
+
+<img src="./assets/DI.jpg">
+<br>
+
+<div class="leading-10">
+Design pattern where a class receives its dependencies from an external source rather than creating them itself. Instead of a class being responsible for creating the objects it needs to function, those objects are "injected" into it, typically through its constructor or setter methods.
+</div>
+
+
+
+<div class="abs-tr m-2 w-50">
+  <img src="./assets/kott.gif">
+</div>
+
+---
+layout: side-title
+side: l
+color: red-light
+titlewidth: is-4
+align: cm-lm
+transition: slide-left
+---
+
+:: title ::
+# Onion Architecture
+
+:: content ::
+
+<div class="flex justify-center"><img class="h-75" src="./assets/onion.png"></div>
+<br>
+
+<div class="leading-10">
+Onion Architecture is a software architecture pattern that aims to improve maintainability, testability, and separation of concerns by organizing code into layers with clear dependencies pointing inward only (towards the core).
+</div>
+
+<div class="abs-tr m-2 w-50">
+  <img src="./assets/kott.gif">
+</div>
+
+
+---
+layout: side-title
+side: l
+color: teal-light
+titlewidth: is-4
+align: cm-lm
+transition: slide-left
+---
+
+:: title ::
+# Version Control with Git
+
+:: content ::
+
+<div class="flex justify-center"><img class="h-75" src="./assets/git.png"></div>
+<br>
+
+<div class="leading-10">
+
+- Keeps a history of changes
+
+- Allows team collaboration
+
+- Enables safe experimentation with branches
+
+- Provides backup through remote repositories (e.g., GitHub)
+</div>
+
+<div class="abs-tr m-2 w-50">
+  <img src="./assets/kott.gif">
+</div>
+
+---
+layout: side-title
+side: l
+color: violet-light
+titlewidth: is-4
+align: cm-lm
+transition: slide-left
+---
+
+:: title ::
+# Quality Management System
+
+:: content ::
+
+<br>
+
+
+### Policies
+<div class="leading-10">
+
+- To provide software products & services to clients and partners with completeness in solution, consistency in delivery, and excellence in quality.
+
+- Be flexible and proactive in approach and honor customer needs, time and budget.
+
+- To ensure that the needs and expectations of all internal and external interested parties of the organization are fulfilled.
+
+</div>
+
+<div class="abs-tr m-2 w-50">
+  <img src="./assets/kott.gif">
+</div>
