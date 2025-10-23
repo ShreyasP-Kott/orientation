@@ -62,28 +62,6 @@ transition: slide-up
 ---
 layout: side-title
 side: l
-color: orange-light
-titlewidth: is-4
-align: cm-cm
----
-
-:: title ::
-
-# Philosophy
-
-:: content ::
-
-<div class="leading-10">To conduct business with integrity and grow with vision and enterprise. To follow ethical business practices and build long term business relationships with customers and honor commitments to clients, shareholders, institutions and employees.</div>
-
-
-
-<div class="abs-tr m-3 w-50">
-  <img src="./assets/kott.gif">
-</div>
-
----
-layout: side-title
-side: l
 color: purple-light
 titlewidth: is-4
 align: cm-lm
@@ -207,9 +185,6 @@ transition: slide-up
 <span class="font-bold">JavaScript</span>: A high-level programming language that enables client-side logic on web pages using <span class="font-bold">DOM manipulation</span>, <span class="font-bold">event handling</span>, and <span class="font-bold">API communication</span>.
 </div>
 
-
-
-
 <div class="abs-tr m-2 w-50">
   <img src="./assets/kott.gif">
 </div>
@@ -275,7 +250,7 @@ transition: slide-up
 
 :: content ::
 
-<div class="leading-10"><span class="font-bold">Bootstrap</span> is a popular open-source front-end framework for developing responsive and mobile-first websites and web applications using pre-designed <span class="font-bold">CSS</span> and <span class="font-bold">JavaScript</span> components.</div>
+<div class="leading-10"><span class="font-bold">Bootstrap</span> is a popular open-source front-end library for developing responsive web applications using pre-designed <span class="font-bold">CSS</span> and <span class="font-bold">JavaScript</span> components.</div>
 
 
 <span class="font-bold">Why use it?</span>
@@ -979,7 +954,7 @@ level: 1
 </div>
 
 ---
-transition: slide-left
+transition: slide-up
 level: 1
 ---
 
@@ -988,6 +963,36 @@ level: 1
 <video class="w-full h-[90%] object-fit bg-black" autoplay loop muted playsinline>
   <source src="./assets/title-tracker.mp4" type="video/mp4" />
 </video>
+
+<div class="abs-tr m-2 w-50">
+  <img src="./assets/kott.gif">
+</div>
+
+---
+layout: side-title
+side: l
+color: amber-light
+titlewidth: is-4
+align: cm-lm
+transition: slide-left
+---
+
+:: title ::
+# Other contributions
+
+:: content ::
+
+<br>
+<div class="leading-10">
+<div><span class="font-bold">Data upload utility application</span> — An application to upload large valid data sets into the REVV database by uploading an excel containing the necessary fields
+</div>
+
+<div><span class="font-bold">Feature flag variant implementation</span> — Allows REVV to easily enable or disable a particular feature like Title handling to a set of required consignors or users only</div>
+
+<div><span class="font-bold">Report module frontned tasks</span> — Frontend tweaks required to incorporate the changes required for the newly developed reports</div>
+
+<div><span class="font-bold">Consignor get office API</span> — An API to get all the offices for a particular consignor which could be used to create an assignment in our application through the API</div>
+</div>
 
 <div class="abs-tr m-2 w-50">
   <img src="./assets/kott.gif">
