@@ -989,7 +989,7 @@ transition: slide-left
 
 <div><span class="font-bold">Feature flag variant implementation</span> — Allows REVV to easily enable or disable a particular feature like Title handling to a set of required consignors or users only</div>
 
-<div><span class="font-bold">Report module frontned tasks</span> — Frontend tweaks required to incorporate the changes required for the newly developed reports</div>
+<div><span class="font-bold">Report module frontend tasks</span> — Frontend tweaks required to incorporate the changes required for the newly developed reports</div>
 
 <div><span class="font-bold">Consignor get office API</span> — An API to get all the offices for a particular consignor which could be used to create an assignment in our application through the API</div>
 </div>
