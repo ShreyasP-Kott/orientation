@@ -42,7 +42,7 @@ side: l
 color: red-light
 titlewidth: is-4
 align: cm-cm
-transition: slide-up
+transition: slide-left
 ---
 
 :: title ::
@@ -70,7 +70,7 @@ transition: slide-up
 
 :: title ::
 
-# Training
+# Training Overview
 
 :: content ::
 
@@ -101,7 +101,7 @@ align: cm-lm
 
 :: title ::
 
-# Policies & guidelines
+# Policies & Guidelines
 
 :: content ::
 
@@ -142,7 +142,7 @@ align: cm-lm
 
 :: title ::
 
-# Coding standards
+# Coding Standards
 
 :: content ::
 
@@ -337,7 +337,7 @@ transition: slide-up
 
 :: title ::
 
-# What Vue brings to the table?
+# VueJS
 
 :: content ::
 
